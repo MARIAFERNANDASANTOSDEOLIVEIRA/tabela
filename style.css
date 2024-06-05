@@ -1,0 +1,25 @@
+table{
+width: 50%;
+line-height: 1.5;
+border:solid 3px red;
+}
+
+thead{
+background-color:black;
+color: white;
+font: size 20px;
+font-family: comic Sans Ms;
+text-align: center;
+border: 2px solid darkblue;
+}
+td{
+    border: 1px;
+    font-family: verdana;
+    font-size: 15px ;
+    border: 2px solid darkblue;
+}
+
+
+
+
+
